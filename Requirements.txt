@@ -1,0 +1,6 @@
+tensorflow
+keras
+numpy
+jupyter
+notebook
+cv2
